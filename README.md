@@ -1,3 +1,16 @@
+# Meu nome é Erimilson silva
+
+<br>
+
+## Área de Estudo: Desenvolvimento Web
+
+<br>
+
+----
+
+<br>
+
+
 ## Base de Estudo:
 
 <br>
@@ -37,8 +50,9 @@
 <br>
 
 
-##  Contatos e Redes Social: 
+##  Redes Social: 
 <br>
 <a href="https://www.linkedin.com/in/vedant-chainani/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- badge & logo = linkedin & logoColor = white "> </a>
 <br> <br>
+
 
