@@ -1,4 +1,4 @@
-# Eu sou Erimilson silva
+# Bem Vindo ao meu Portifólio do github
 
 - Atualmente Estudante autônomo das tecnologias para desenvolvedor front-end. 
 
@@ -7,8 +7,8 @@
 ## Área de Estudo: Desenvolvimento Web
 
 - Desenvolvendo os conhecimentos em Javascript, HTML5 e CSS3.
-- Os repositório tem como base os Estudos em Bootcamps.
-- Participo de Bootcamps na plataforma Digital Innovation One deste de Outubro de 2021.
+- Os repósitorios tem como base os Estudos em Bootcamps.
+- Participo de Bootcamp na plataforma Digital Innovation One deste de Outubro de 2021.
 - Venho Desenvolvendo Projetos de Website deste de Novembro de 2020.
 
 <br>
@@ -42,34 +42,6 @@
   <a href="https://github.com/Erysilva98"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erysilva98&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<br>
-
-----
-
-<br>
-
-## Formação:
-- Técnico em Informática  
-
-### Conhecimemtos em : 
-- Linguagem de Programação: Java e PHP
-- Banco de dados e Estrutura de dados
-- Sistemas: Linux e Windowns 
-
-<br>
-
-----
-
-<br>
-
-## Cursos:
-- BootCamp : Digital Innovation One 
-
-### Certificações de Conhecimento : 
-- HTML Web Developer
-- JavaScipt Game Developer
-- Git e GitHub 
 
 <br>
 
