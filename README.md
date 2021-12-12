@@ -1,10 +1,10 @@
-# Bem Vindo ao meu Portifólio do github
+# Bem Vindo ao meu Portifólio  
 
 - Atualmente Estudante autônomo das tecnologias para desenvolvedor front-end. 
 
 <br>
 
-## Área de Estudo: Desenvolvimento Web
+# Área de Estudo: Desenvolvimento Web
 
 - Desenvolvendo os conhecimentos em Javascript, HTML5 e CSS3.
 - Os repositórios tem como base os Estudos em Bootcamps.
@@ -17,7 +17,7 @@
 
 <br>
 
-## Conhecimentos 
+# Conhecimentos 
 
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "JavaScript" height = "27" width = "40" src = "https://profilinator.rishav.dev/skills-assets/javascript-original.svg" >
@@ -36,7 +36,7 @@
 
 <br>
 
-## Experiência Pratica
+# Experiência Pratica
 
 <div>
   <a href="https://github.com/Erysilva98"> </a>
@@ -49,7 +49,31 @@
 
 <br>
 
-## Projetos:
+# Cursos e Formação Acadêmica:
+
+## BootCamp : Digital Innovation One 
+
+#### > Certificações de Conhecimento : 
+- HTML Web Developer
+- JavaScipt Game Developer
+- Git e GitHub
+- HMTL5 - CSS3 - JavaScript 
+
+
+## Técnico em Informática 
+
+#### > Conhecimemtos em : 
+- Linguagem de Programação: Java e PHP
+- Banco de dados e Estrutura de dados
+- Sistemas Operacional: Linux e Windowns 
+
+<br>
+
+----
+
+<br>
+
+# Projetos:
 
 - Recriando a Interface da NetFlix: --- 
   <a alt="Repositório" href="https://github.com/Erysilva98/NetFlix-Ery.git" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a>
@@ -64,7 +88,7 @@
 
 <br>
 
-##  Redes Social e Contato: 
+# Redes Social e Contato: 
 
 <div style = "display: inline_block"> <br>
   <a alt = "LinkedIn" href="https://www.linkedin.com/in/erimilson-silva-31493720a/" target="_blank"> <img align = "center"  height = "25" width = "82" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank "> </a>
