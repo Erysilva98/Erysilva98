@@ -7,7 +7,7 @@
 ## Área de Estudo: Desenvolvimento Web
 
 - Desenvolvendo os conhecimentos em Javascript, HTML5 e CSS3.
-- Os repósitorios tem como base os Estudos em Bootcamps.
+- Os repositórios tem como base os Estudos em Bootcamps.
 - Participo de Bootcamp na plataforma Digital Innovation One deste de Outubro de 2021.
 - Venho Desenvolvendo Projetos de Website deste de Novembro de 2020.
 
