@@ -39,7 +39,7 @@
 # Experiência Pratica
 
 <div>
-  <a href="https://github.com/Erysilva98"> 
+  <a href="https://github.com/Erysilva98?tab=repositories"> 
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erysilva98&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
