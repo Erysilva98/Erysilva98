@@ -20,7 +20,7 @@
 # Conhecimentos 
 
 <div style = "display: inline_block"> <br>
-  <a> <img align = "center" alt = "JavaScript" height = "27" width = "40" src = "https://profilinator.rishav.dev/skills-assets/javascript-original.svg" > </a>
+ <a> <img href="https://github.com/Erysilva98?tab=repositories" target="_blank" align = "center" alt = "JavaScript" height = "27" width = "40" src = "https://profilinator.rishav.dev/skills-assets/javascript-original.svg" > </a>
   <img align = "center" alt = "HTML5" height = "30" width = "40" src = "https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" >
   <img align = "center" alt = "CSS3" height = "30" width = "40" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg">
   <img align = "center" alt = "PHP" height = "30" width = "50" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
