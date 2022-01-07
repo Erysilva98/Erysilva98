@@ -19,18 +19,32 @@
 
 # Conhecimentos 
 
-<div style = "display: inline_block"> <br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-   <img align="center" alt="JavaScript" height="27" width="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" target="_blank">
+<div style="display:inline_block"> <br>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img align="center" alt="JavaScript" height="27" width="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" target="_blank"> 
   </a>
- 
-  <img align = "center" alt = "HTML5" height = "30" width = "40" src = "https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" >
-  <img align = "center" alt = "CSS3" height = "30" width = "40" src = "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg">
-  <img align = "center" alt = "PHP" height = "30" width = "50" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align = "center" alt = "NodeJS" height = "30" width = "75" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align = "center" alt = "MySql" height = "30" width = "60" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align = "center" alt = "Linux" height = "40" width = "40" src = "https://profilinator.rishav.dev/skills-assets/linux-original.svg">
-  <img align = "center" alt = "Git" height = "40" width = "35" src = "https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">  
+    <img align="center" alt="HTML5" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img align="center" alt="CSS3" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"> 
+  </a>
+  <a href="https://www.php.net/releases/8.1/en.php" target="_blank"> 
+    <img align="center" alt="PHP" height="30" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+  </a>
+  <a href="https://www.php.net/releases/8.1/en.php" target="_blank">
+    <img align="center" alt="NodeJS" height="30" width="75" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img align="center" alt="MySql" height="30" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img align="center" alt="Ubutun" height="35" width="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="center" alt="Git" height="40" width="35" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
+  </a>
 </div>
 
 <br>
