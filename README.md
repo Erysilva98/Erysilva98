@@ -88,7 +88,7 @@
 #### > Certificações de Conhecimento : 
 - BootCamp: HTML Web Developer 27H - Concluido
 - BootCamp: JavaScipt Game Developer 108H - Concluido
-- BootCamp: Inter Frontend Developer 99H - Em andamento
+- BootCamp: Inter Frontend Developer 99H - Concluido
 - Git e GitHub
 - HMTL5 - CSS3 - JavaScript
 
