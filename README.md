@@ -1,6 +1,7 @@
 # Bem Vindo ao meu Portifólio  
 
-- Atualmente Estudante autônomo das tecnologias para desenvolvedor front-end. 
+- Sou estudante do curso de Bacharelado em Engenharia de Software. 
+- Tenho uma base de conhecimento e projetos práticos em Websites.  
 
 <br>
 
@@ -9,7 +10,6 @@
 - Desenvolvendo os conhecimentos em Javascript, HTML5 e CSS3.
 - Os repositórios tem como base os Estudos em Bootcamps.
 - Participo de Bootcamp na plataforma Digital Innovation One deste de Outubro de 2021.
-- Venho Desenvolvendo Projetos de Website deste de Novembro de 2020.
 - Estrutura de Desenvolvimento: 
 <br>
   1 - Ambiente de Desenvolvimento Integrado: Visual Studio Code.
@@ -82,6 +82,14 @@
 <br>
 
 # Cursos e Formação Acadêmica:
+
+## Bacharelado em Engenharia de Software
+
+#### Instituto Federal de Permambuco 
+
+    Situação: Cursando
+
+
 
 ## Plataforma : Digital Innovation One 
 
