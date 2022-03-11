@@ -1,6 +1,6 @@
 # Bem Vindo ao meu Portifólio  
 
-- Sou estudante do curso de Bacharelado em Engenharia de Software. 
+- Sou estudante de Bacharelado em Engenharia de Software. 
 - Tenho uma base de conhecimento e projetos práticos em Websites.  
 
 <br>
