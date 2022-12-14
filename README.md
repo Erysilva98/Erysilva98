@@ -118,6 +118,9 @@
 
 - Recriando a Interface da NetFlix: --- 
   <a alt="Repositório" href="https://github.com/Erysilva98/NetFlix-Ery.git" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a>
+  
+- Assistente Virtual do Telegram: --- 
+  <a alt="Repositório" href="https://github.com/Erysilva98/Assistente_Virtual-Python" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a>
 
 <img  />
 
