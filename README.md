@@ -3,22 +3,20 @@
 - Estudante de Bacharelado em Engenharia de Software. 
 - Experiência em Projetos práticos com Websites.
 - Desenvolvendo Habilidades em Back-End.  
-
 # 
-
 # Área de Estudo: Desenvolvimento Web
 
-- Desenvolvendo os conhecimentos em Javascript, HTML5 e CSS3.
+- Desenvolvendo conhecimentos em HTML5, CSS3 e Javascript.
 - Projetos para o Curso em Engenharia de Software.
 - Atividades e Exercícios em Linguagens Back-End.
 - Projetos de Bootcamp na plataforma Digital Innovation One inicio em Outubro de 2021.
-
-- Estrutura de Desenvolvimento: 
-<br>
+#
+### Ambiente de Desenvolvimento: 
+#
   1 - Ambiente de Desenvolvimento Integrado: Visual Studio Code.
-<br>
+
   2 - Sistema Operacional: Ubutun 18.04 x64-Bits, aderir em Desembro de 2021.
-<br>
+
   3 - Softwares Instalados: Node.js, Python, Xampp, C, Java... 
 
 #
@@ -106,12 +104,11 @@
 # Cursos e Formação Acadêmica:
 
 ## Bacharelado em Engenharia de Software
-
+#
 #### Instituto Federal de Permambuco 
 
     Situação: Cursando
-
-
+#
 
 ## Plataforma : Digital Innovation One 
 
@@ -121,8 +118,7 @@
 - BootCamp: Inter Frontend Developer 99H - Concluido
 - Git e GitHub
 - HMTL5 - CSS3 - JavaScript
-
-
+#
 ## Técnico em Informática 
 
 #### > Conhecimemtos em : 
@@ -130,21 +126,19 @@
 - Banco de dados e Estrutura de dados
 - Sistemas Operacional: Linux e Windowns 
 
-<br>
-
-----
-
-<br>
+#
 
 # Projetos:
 
-- Recriando a Interface da NetFlix: --- 
-  <a alt="Repositório" href="https://github.com/Erysilva98/NetFlix-Ery.git" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a>
+- Recriando a Interface da NetFlix --- 
+  <a alt="Repositório" href="https://github.com/Erysilva98/NetFlix-Ery.git" target="_blank"> 
+  <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a> </img>
   
-- Assistente Virtual do Telegram: --- 
-  <a alt="Repositório" href="https://github.com/Erysilva98/Assistente_Virtual-Python" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a>
+- Assistente Virtual do Telegram --- 
+  <a alt="Repositório" href="https://github.com/Erysilva98/Assistente_Virtual-Python" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a> <img/>
 
-<img  />
+- CRUD em PHP ( Projeto do Curso Técnico ) --- 
+  <a alt="Repositório" href="https://github.com/Erysilva98/Servidor-E_G_E" target="_blank"> <img align = "center" padding-left="10px"  height = "20" width = "20" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-download-user-interface-kmg-design-outline-color-kmg-design.png" target=" _ blank "> </a> <img/>
 
 - Novo Projeto Em breve
 
