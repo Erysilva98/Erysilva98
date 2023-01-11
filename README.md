@@ -3,14 +3,18 @@
 - Estudante de Bacharelado em Engenharia de Software. 
 - Experiência em Projetos práticos com Websites.
 - Desenvolvendo Habilidades em Back-End.  
-# 
+
+---
+
 # Área de Estudo: Desenvolvimento Web
 
 - Desenvolvendo conhecimentos em HTML5, CSS3 e Javascript.
 - Projetos para o Curso em Engenharia de Software.
 - Atividades e Exercícios em Linguagens Back-End.
-- Projetos de Bootcamp na plataforma Digital Innovation One inicio em Outubro de 2021.
-#
+- Projetos da Plataforma Digital Innovation One.
+
+---
+
 ### Ambiente de Desenvolvimento: 
 #
   1 - Ambiente de Desenvolvimento Integrado: Visual Studio Code.
@@ -19,7 +23,7 @@
 
   3 - Softwares Instalados: Node.js, Python, Xampp, C, Java... 
 
-#
+---
 
 # Conhecimentos 
 
@@ -59,8 +63,7 @@
   </a>
 </div>
 
-#
-### Extras
+### Outros
 #
 <div align="center" style="display:inline_block"> 
   <a href="https://github.com/"   target="_blank">
@@ -77,7 +80,8 @@
   </a>
 </div>
 
-#
+---
+
 # Experiência Pratica
 
 <div align="center">
@@ -85,33 +89,43 @@
   <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erysilva98&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 
-#
+---
+
 # Cursos e Formação Acadêmica:
 
 ## Bacharelado em Engenharia de Software
 #
 #### Instituto Federal de Permambuco 
 
-    Situação: Cursando 
-#
+  >>> 3° Périodo - Situação: Cursando  
+
+  > Conhecimemtos em : 
+- Linguagem de Programação: Python e C
+- Processo de Software 
+- Projeto ? Assistente Virtual do Telegram
+
+---
 
 ## Plataforma : Digital Innovation One 
 
-#### > Certificações de Conhecimento : 
+> Certificações de Conhecimento : 
 - BootCamp: HTML Web Developer 27H - Concluido
 - BootCamp: JavaScipt Game Developer 108H - Concluido
 - BootCamp: Inter Frontend Developer 99H - Concluido
 - Git e GitHub
 - HMTL5 - CSS3 - JavaScript
-#
+
+---
+
 ## Técnico em Informática 
 
-#### > Conhecimemtos em : 
+> Conhecimemtos em : 
 - Linguagem de Programação: Java e PHP
 - Banco de dados e Estrutura de dados
 - Sistemas Operacional: Linux e Windowns 
 
-#
+---
+
 # Projetos:
 
 - Recriando a Interface da NetFlix --- 
@@ -126,10 +140,11 @@
 
 - Novo Projeto Em breve
 
-#
+---
+
 # Redes Social e Contato: 
 
-<div style = "display: inline_block"> <br>
+<div style = "display: inline_block">
   <a alt = "LinkedIn" href="https://www.linkedin.com/in/erimilson-silva-31493720a/" target="_blank"> <img align = "center"  height = "25" width = "82" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank "> </a>
   <a alt="Facebook" href="https://www.facebook.com/Erimilson" target="_blank"> <img align = "center"  height = "25" width = "82" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target=" _ blank "> </a>
   <a alt="Instagram" href="https://www.instagram.com/erimilson.silva_98/" target="_blank"> <img  align = "center" height = "25" width = "82" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _ blank "> </a>
@@ -137,4 +152,4 @@
   <a alt="Telegram" href="https://t.me/ErySilva98" target="_blank"> <img align = "center" alt = "Telegram"  height = "25" width = "80" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target=" _ blank "> </a>
 </div>
 
-#
+---
