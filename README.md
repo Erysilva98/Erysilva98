@@ -1,15 +1,13 @@
 
 # Bem-vindo ao meu Portfólio!
 
-Olá! Sou um estudante de Engenharia de Software apaixonado por desenvolver soluções web eficientes. Com experiência prática em projetos de websites e aprimorando minhas habilidades em Back-End, estou sempre em busca de novos desafios.
+Olá! Sou um estudante de Engenharia de Software, com experiência prática em projetos de Websites, aprimorando minhas habilidades em Back-End e sempre em buscando de novos desafios.
 
 ## 🚀 Áreas de Estudo
 
-Desenvolvimento Web, especialmente nas seguintes tecnologias:
-
 - **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** Python, Node.js, C, Java
-- **Ferramentas e Ambiente de Desenvolvimento:** VS Code, Git, GitHub, MySQL, Linux
+- **Ferramentas e Ambiente de Desenvolvimento:** VS Code, Git, Linux
 
 ## 💼 Experiência Prática
 
@@ -31,7 +29,7 @@ Desenvolvimento Web, especialmente nas seguintes tecnologias:
 
 ## 📚 Educação
 
-- **Bacharelado em Engenharia de Software** - Instituto Federal de Pernambuco (3º Período - Cursando)
+- **Bacharelado em Engenharia de Software** - Instituto Federal de Pernambuco (5º Período - Cursando)
 - **Plataforma Digital Innovation One:** Diversos Bootcamps e Certificações
 - **Técnico em Informática**
 
