@@ -81,5 +81,3 @@ Desenvolvedor Web com ênfase em **Front-End** e experiência em Back-End, apaix
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ErySilva98)
 
 ---
-
-> 🚀 Busco oportunidades para aplicar meu domínio em **Front-End moderno** e colaborar em projetos desafiadores. Vamos conversar sobre como posso contribuir para sua equipe!
