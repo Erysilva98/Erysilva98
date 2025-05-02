@@ -1,45 +1,85 @@
+# 👨‍💻 Erimilson Silva
 
-# Bem-vindo ao meu Portfólio!
+**Estudante de Engenharia de Software** pelo Instituto Federal de Pernambuco (IFPE) – Campus Belo Jardim.  
+Desenvolvedor Web com ênfase em **Front-End** e experiência em Back-End, apaixonado por interfaces intuitivas e performance, com histórico de entrega de soluções completas.
 
-Olá! Sou um estudante de Engenharia de Software, com experiência prática em projetos de Websites, aprimorando minhas habilidades em Back-End e sempre em buscando de novos desafios.
+---
 
-## 🚀 Áreas de Estudo
+## 🎓 Formação Acadêmica
 
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Python, Node.js, C, Java
-- **Ferramentas e Ambiente de Desenvolvimento:** VS Code, Git, Linux
+- **Bacharelado em Engenharia de Software** — IFPE, Campus Belo Jardim  
+- **Técnico em Informática** — IFPE, Campus Belo Jardim  
+- **Formação Complementar:**
+  - **Desenvolvedor Full Stack** — Programa Moura Tech (2022.2 / 2024)  
 
-## 💼 Experiência Prática
+---
+
+## 🏆 Certificações & Conquistas
+
+- **Inter Frontend Developer** — Digital Innovation One  
+- **JavaScript Game Developer** — Digital Innovation One  
+- **HTML Web Developer** — Digital Innovation One  
+- **Introdução ao Git e GitHub** — Digital Innovation One  
+- Contribuições em projetos *open source* no GitHub  
+- Mais de **30 projetos práticos** concluídos em diferentes linguagens  
+
+---
+
+## 💼 Projetos em Destaque
+
+| Projeto                        | Descrição                                                              | Tecnologias                     |
+|--------------------------------|------------------------------------------------------------------------|---------------------------------|
+| [Padrões de Projeto 1](https://github.com/Erysilva98/WorkSpace_PJS)                  | Práticas de Padrões de Projeto   | JAVA    |
+| [Padrões de Projeto 2](https://github.com/Erysilva98/WorkSpace_PJS2)                  | Práticas de Padrões de Projeto   | JAVA    |
+| [Netflix Clone](https://github.com/Erysilva98/NetFlix-Ery)                    | Catálogo de filmes e séries.                | HTML5, CSS3, JavaScript         |
+| [Assistente Virtual Telegram](https://github.com/Erysilva98/Assistente_Virtual-Python) | Bot interativo com comandos customizados para Telegram.                | Python, Telegram API            |
+| [CRUD PHP](https://github.com/Erysilva98/Servidor-E_G_E)               | Sistema de cadastro e gerenciamento, painel administrativo.| PHP, MySQL, HTML5               |
+
+
+---
+
+## 🧠 Habilidades Técnicas
+
+### 🔹 Front-End  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔹 Back-End & Infra  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### 🔹 Design & Colaboração  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Erysilva98?tab=repositories" target="_blank"> 
-    <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erysilva98&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erysilva98&show_icons=true&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erysilva98&layout=compact&theme=dracula" />
 </div>
 
-## 💡 Conhecimentos
-
-### Linguagens
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Diferencial
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📚 Educação
-
-- **Bacharelado em Engenharia de Software** - Instituto Federal de Pernambuco (5º Período - Cursando)
-- **Plataforma Digital Innovation One:** Diversos Bootcamps e Certificações
-- **Técnico em Informática**
-
-## 🌱 Projetos
-
-- [Recriando a Interface da Netflix](https://github.com/Erysilva98/NetFlix-Ery.git)
-- [Assistente Virtual do Telegram](https://github.com/Erysilva98/Assistente_Virtual-Python)
-- [CRUD em PHP (Projeto Técnico)](https://github.com/Erysilva98/Servidor-E_G_E)
-- Mais projetos em breve...
+---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erimilson-silva-31493720a/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Erimilson) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erimilson.silva_98/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erimilsonsilva98@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ErySilva98)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erimilson-silva-31493720a/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erimilsonsilva98@gmail.com) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ErySilva98)
+
+---
+
+> 🚀 Busco oportunidades para aplicar meu domínio em **Front-End moderno** e colaborar em projetos desafiadores. Vamos conversar sobre como posso contribuir para sua equipe!
