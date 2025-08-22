@@ -30,7 +30,7 @@ Desenvolvedor Web com ênfase em **Front-End** e experiência em Back-End, apaix
 | Projeto                        | Descrição                                                              | Tecnologias                     |
 |--------------------------------|------------------------------------------------------------------------|---------------------------------|
 | [Padrões de Projeto 1](https://github.com/Erysilva98/WorkSpace_PJS)                  | Práticas de Padrões de Projeto   | JAVA    |
-| [Padrões de Projeto 2](https://github.com/Erysilva98/WorkSpace_PJS2)                  | Práticas de Padrões de Projeto   | JAVA    |
+| [Padrões de Projeto 2](https://github.com/Erysilva98/WorkSpace_JPS2)                  | Práticas de Padrões de Projeto   | JAVA    |
 | [Netflix Clone](https://github.com/Erysilva98/NetFlix-Ery)                    | Catálogo de filmes e séries.                | HTML5, CSS3, JavaScript         |
 | [Assistente Virtual Telegram](https://github.com/Erysilva98/Assistente_Virtual-Python) | Bot interativo com comandos customizados para Telegram.                | Python, Telegram API            |
 | [CRUD PHP](https://github.com/Erysilva98/Servidor-E_G_E)               | Sistema de cadastro e gerenciamento, painel administrativo.| PHP, MySQL, HTML5               |
