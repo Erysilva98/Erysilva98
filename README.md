@@ -1,6 +1,6 @@
 # 👨‍💻 Erimilson Silva
 
-**Estudante de Engenharia de Software** pelo Instituto Federal de Pernambuco (IFPE) – Campus Belo Jardim.  
+**Estudante de Engenharia de Software** em meu 8º Período pelo Instituto Federal de Pernambuco (IFPE) – Campus Belo Jardim.  
 Desenvolvedor Web com ênfase em **Front-End** e experiência em Back-End, apaixonado por interfaces intuitivas e performance, com histórico de entrega de soluções completas.
 
 ---
