@@ -8,7 +8,7 @@
 - **Bacharelado em Engenharia de Software** — IFPE, Campus Belo Jardim  
 - **Técnico em Informática** — IFPE, Campus Belo Jardim  
 - **Formação Complementar:**
-  - **Desenvolvedor Full Stack** — Programa Moura Tech (2022.2 / 2024)  
+  - **Desenvolvedor Full Stack** — Programa Moura Tech (12-2022 / 08-2024)  
 
 ---
 
